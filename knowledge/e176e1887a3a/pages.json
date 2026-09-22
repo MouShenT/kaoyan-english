@@ -1,44 +1,44 @@
 [
   {
     "pdf_page": 1,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1165,
+    "confidence": 0.9842746950252123
   },
   {
     "pdf_page": 2,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 1092,
+    "confidence": 0.9770770647878968
   },
   {
     "pdf_page": 3,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 2249,
+    "confidence": 0.9760257900490146
   },
   {
     "pdf_page": 4,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 2422,
+    "confidence": 0.9789016944557675
   },
   {
     "pdf_page": 5,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 2100,
+    "confidence": 0.9771569815926333
   },
   {
     "pdf_page": 6,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 2217,
+    "confidence": 0.977719626339918
   },
   {
     "pdf_page": 7,
-    "method": "needs-visual-check",
-    "chars": 0,
-    "confidence": null
+    "method": "ocr-unverified",
+    "chars": 2076,
+    "confidence": 0.9789343058804374
   }
 ]

@@ -47,4 +47,4 @@
 | [2017-答案及解析](../knowledge/3098ff1fc0d5/README.md) | 28 | {'text-layer': 28} |
 | [2018-答案及解析](../knowledge/28ffa2195530/README.md) | 13 | {'text-layer': 13} |
 | [2019-答案及解析](../knowledge/b28bc4510f79/README.md) | 20 | {'text-layer': 20} |
-| [2020-答案及解析](../knowledge/e176e1887a3a/README.md) | 7 | {'needs-visual-check': 7} |
+| [2020-答案及解析](../knowledge/e176e1887a3a/README.md) | 7 | {'ocr-unverified': 7} |
