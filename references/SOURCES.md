@@ -6,6 +6,8 @@
 - [British Council: relative pronouns and clauses](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/relative-pronouns-relative-clauses)：Firecrawl 抓取正文核验；关系代词和从句结构。
 - [British Council: an opinion essay](https://learnenglish.britishcouncil.org/free-resources/writing/b2/opinion-essay)：Firecrawl 检索到原站页面；仅作写作教学入口，未核验为考研评分标准。
 
+- [Cambridge Dictionary: address](https://dictionary.cambridge.org/dictionary/english/address)：Exa 抓取词典原页；用词时按词性和语境查对应义项，不从名词“地址”机械套用动词语境。
+
 ## 考试信息
 
 [中国教育考试网·硕士研究生招生考试](https://yankao.neea.edu.cn/) 和 [考试大纲目录](https://yankao.neea.edu.cn/xhtml1/category/1509/6235-1.htm)：Firecrawl 检索确认官方入口，但此次结果展示的若干大纲为 2022 年版，不应说已确认 2027 或其他目标年份范围。用户尚未指定年份，涉及范围/题型/分值时另行核验。英语一与英语二、数学一与数学二三不能混用。
