@@ -49,3 +49,7 @@
 ## 学习与记录
 
 [真题为主、理解为主](LEARNING_METHOD.md)：补必要基础、解释关键步骤、独立复做、按需少量同类真题。[Notion 简记](NOTION.md)只保存题目、科目和知识点，不记录错题原因。
+
+手机 ChatGPT 项目使用：[可复制项目指令](PROJECT_INSTRUCTIONS.md)。
+
+[阅读优先与外刊选读](READING.md)：已核验的首批阅读入口、精读流程与出题边界。
