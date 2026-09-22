@@ -1,0 +1,86 @@
+[
+  {
+    "pdf_page": 1,
+    "method": "text-layer",
+    "chars": 2026,
+    "confidence": null
+  },
+  {
+    "pdf_page": 2,
+    "method": "text-layer",
+    "chars": 1913,
+    "confidence": null
+  },
+  {
+    "pdf_page": 3,
+    "method": "text-layer",
+    "chars": 2847,
+    "confidence": null
+  },
+  {
+    "pdf_page": 4,
+    "method": "text-layer",
+    "chars": 1214,
+    "confidence": null
+  },
+  {
+    "pdf_page": 5,
+    "method": "text-layer",
+    "chars": 2905,
+    "confidence": null
+  },
+  {
+    "pdf_page": 6,
+    "method": "text-layer",
+    "chars": 1227,
+    "confidence": null
+  },
+  {
+    "pdf_page": 7,
+    "method": "text-layer",
+    "chars": 3219,
+    "confidence": null
+  },
+  {
+    "pdf_page": 8,
+    "method": "text-layer",
+    "chars": 1358,
+    "confidence": null
+  },
+  {
+    "pdf_page": 9,
+    "method": "text-layer",
+    "chars": 2869,
+    "confidence": null
+  },
+  {
+    "pdf_page": 10,
+    "method": "text-layer",
+    "chars": 1309,
+    "confidence": null
+  },
+  {
+    "pdf_page": 11,
+    "method": "text-layer",
+    "chars": 2843,
+    "confidence": null
+  },
+  {
+    "pdf_page": 12,
+    "method": "text-layer",
+    "chars": 1665,
+    "confidence": null
+  },
+  {
+    "pdf_page": 13,
+    "method": "text-layer",
+    "chars": 3076,
+    "confidence": null
+  },
+  {
+    "pdf_page": 14,
+    "method": "text-layer",
+    "chars": 835,
+    "confidence": null
+  }
+]

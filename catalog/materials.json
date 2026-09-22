@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "035bf2cbc11c",
+    "path": "materials/英语一真题2002-2026/2002.pdf",
+    "title": "2002",
+    "bytes": 926911,
+    "sha256": "aa36ecf17c3c1460ea87d7a0c4c72e1b0c6aeb04a10186e2796d1264a07d31dc",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/035bf2cbc11c/p0001-0006.md",
+      "knowledge/035bf2cbc11c/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "e15baccc87b7",
+    "path": "materials/英语一真题2002-2026/2003.pdf",
+    "title": "2003",
+    "bytes": 1163057,
+    "sha256": "3e4cacb41ba1a08c6bab37eb5d4b2ad833a107446dfe3b9fe5db58e2f340ea92",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/e15baccc87b7/p0001-0006.md",
+      "knowledge/e15baccc87b7/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "74e5e308c5fa",
+    "path": "materials/英语一真题2002-2026/2004.pdf",
+    "title": "2004",
+    "bytes": 1263728,
+    "sha256": "dcb1e576c3a59fa0a8350fc256dc7cfa72ddb80f4af1a23474f2f5d5a73192ec",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/74e5e308c5fa/p0001-0006.md",
+      "knowledge/74e5e308c5fa/p0007-0012.md"
+    ],
+    "pages": 12,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 12
+    }
+  },
+  {
+    "id": "f7eb8a335e99",
+    "path": "materials/英语一真题2002-2026/2005.pdf",
+    "title": "2005",
+    "bytes": 1365701,
+    "sha256": "ad48a834741ed12014aa1b25909427121e92cb993b521b2ee42c2388199f1a0b",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/f7eb8a335e99/p0001-0006.md",
+      "knowledge/f7eb8a335e99/p0007-0012.md",
+      "knowledge/f7eb8a335e99/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "ad2a70c9b801",
+    "path": "materials/英语一真题2002-2026/2006.pdf",
+    "title": "2006",
+    "bytes": 1359205,
+    "sha256": "9cad80eeb03ce118cca7b36ca57ad913b5e8bd647a069b17ffc53907cce168c6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/ad2a70c9b801/p0001-0006.md",
+      "knowledge/ad2a70c9b801/p0007-0012.md",
+      "knowledge/ad2a70c9b801/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "9b98511cbc5c",
+    "path": "materials/英语一真题2002-2026/2007.pdf",
+    "title": "2007",
+    "bytes": 1032765,
+    "sha256": "7b0e4cabcab1c26dc2ad2d6ead30f0d1caa8fd6ff8f13a1e37594f54cfd119fd",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/9b98511cbc5c/p0001-0006.md",
+      "knowledge/9b98511cbc5c/p0007-0012.md",
+      "knowledge/9b98511cbc5c/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "0b84e3603050",
+    "path": "materials/英语一真题2002-2026/2008.pdf",
+    "title": "2008",
+    "bytes": 1176474,
+    "sha256": "220a2356a42d5ec33a54306ec9445542fb99cdd618641165cfbd2947ce3627c2",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/0b84e3603050/p0001-0006.md",
+      "knowledge/0b84e3603050/p0007-0012.md",
+      "knowledge/0b84e3603050/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "75b1fc4e8774",
+    "path": "materials/英语一真题2002-2026/2009.pdf",
+    "title": "2009",
+    "bytes": 1330872,
+    "sha256": "8a54627f5258ce96bf95363f0717b9b624d5614b95ccb42db87b8a3d5af78e35",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/75b1fc4e8774/p0001-0006.md",
+      "knowledge/75b1fc4e8774/p0007-0012.md",
+      "knowledge/75b1fc4e8774/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "29ae3807054d",
+    "path": "materials/英语一真题2002-2026/2010.pdf",
+    "title": "2010",
+    "bytes": 1215273,
+    "sha256": "16bf5a60ebc494c6be385149d00ffab3aae53bf881320d07c8fd16ee2a9e5853",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/29ae3807054d/p0001-0006.md",
+      "knowledge/29ae3807054d/p0007-0012.md",
+      "knowledge/29ae3807054d/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "c5af7b67fa28",
+    "path": "materials/英语一真题2002-2026/2011.pdf",
+    "title": "2011",
+    "bytes": 1577149,
+    "sha256": "51ae8e77daba407fc1151066a7967041aa95a561bcd1070537c8d9f501e47f9f",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c5af7b67fa28/p0001-0006.md",
+      "knowledge/c5af7b67fa28/p0007-0012.md",
+      "knowledge/c5af7b67fa28/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "4574b2937800",
+    "path": "materials/英语一真题2002-2026/2012.pdf",
+    "title": "2012",
+    "bytes": 1587141,
+    "sha256": "5826de2ea2294911434316333521a7f3038bd33b042442ece6bfe5a092285266",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4574b2937800/p0001-0006.md",
+      "knowledge/4574b2937800/p0007-0012.md",
+      "knowledge/4574b2937800/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "4f31a5a02276",
+    "path": "materials/英语一真题2002-2026/2013.pdf",
+    "title": "2013",
+    "bytes": 1278725,
+    "sha256": "5b2abd59e8f499ca41ead7ba77d306e0cd4733a20a2b28b3e0ca22a123d8fb42",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4f31a5a02276/p0001-0006.md",
+      "knowledge/4f31a5a02276/p0007-0012.md",
+      "knowledge/4f31a5a02276/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "2dfef3196337",
+    "path": "materials/英语一真题2002-2026/2014.pdf",
+    "title": "2014",
+    "bytes": 1737082,
+    "sha256": "d3af2bcd8f195d4f57edac51fab04c4e3cb20cf595aa77fb60ecf2da6bd28cbd",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/2dfef3196337/p0001-0006.md",
+      "knowledge/2dfef3196337/p0007-0012.md",
+      "knowledge/2dfef3196337/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "c51c0e9cad19",
+    "path": "materials/英语一真题2002-2026/2015.pdf",
+    "title": "2015",
+    "bytes": 1363117,
+    "sha256": "59e825fe70c84d0eefc5fb1e19a7cf863c85cb989c56a3297ec5f09d885683a2",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c51c0e9cad19/p0001-0006.md",
+      "knowledge/c51c0e9cad19/p0007-0012.md",
+      "knowledge/c51c0e9cad19/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "4d5b2c5b7346",
+    "path": "materials/英语一真题2002-2026/2016.pdf",
+    "title": "2016",
+    "bytes": 1506190,
+    "sha256": "4d3b21c374e819a8d2c8f6127af3c36b6c333959f404572bb51eb427408bb38e",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4d5b2c5b7346/p0001-0006.md",
+      "knowledge/4d5b2c5b7346/p0007-0012.md",
+      "knowledge/4d5b2c5b7346/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "59a0ac22820e",
+    "path": "materials/英语一真题2002-2026/2017.pdf",
+    "title": "2017",
+    "bytes": 1895323,
+    "sha256": "f9e69a962214c3dececdb423c7aba379455b77e10ce4b195e409f798d59e7831",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/59a0ac22820e/p0001-0006.md",
+      "knowledge/59a0ac22820e/p0007-0012.md",
+      "knowledge/59a0ac22820e/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "7d3495dfc02a",
+    "path": "materials/英语一真题2002-2026/2018.pdf",
+    "title": "2018",
+    "bytes": 1523349,
+    "sha256": "6e3a4d211967eb25ea7e93af6571504f455d8ff0be3b394ffbe329c173f10bb4",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/7d3495dfc02a/p0001-0006.md",
+      "knowledge/7d3495dfc02a/p0007-0012.md",
+      "knowledge/7d3495dfc02a/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "a6aa4b261837",
+    "path": "materials/英语一真题2002-2026/2019.pdf",
+    "title": "2019",
+    "bytes": 1215563,
+    "sha256": "5e490f9bb75bff0ad6a867021057f318c62dcda9cf6a5aa1bdac59ac498c8c6f",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a6aa4b261837/p0001-0006.md",
+      "knowledge/a6aa4b261837/p0007-0012.md",
+      "knowledge/a6aa4b261837/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "4dd901914bd1",
+    "path": "materials/英语一真题2002-2026/2020.pdf",
+    "title": "2020",
+    "bytes": 1599227,
+    "sha256": "058c5d1e96a0c48e8191f17af9d8a3130116e3989ec696ad8ee84b6992394f13",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4dd901914bd1/p0001-0006.md",
+      "knowledge/4dd901914bd1/p0007-0012.md",
+      "knowledge/4dd901914bd1/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "729fa7467a60",
+    "path": "materials/英语一真题2002-2026/2021.pdf",
+    "title": "2021",
+    "bytes": 4530169,
+    "sha256": "5851e6be2572bf7a24145a64e1cb224fdbd3734f4abb58bdb3e23b5eeedd2751",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/729fa7467a60/p0001-0006.md",
+      "knowledge/729fa7467a60/p0007-0012.md",
+      "knowledge/729fa7467a60/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "a27d3054b15c",
+    "path": "materials/英语一真题2002-2026/2022.pdf",
+    "title": "2022",
+    "bytes": 1207314,
+    "sha256": "42fc2dd2966466fbb79ac44a65d62391080fb2d08e6020b6306743c2c28834ab",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a27d3054b15c/p0001-0006.md",
+      "knowledge/a27d3054b15c/p0007-0012.md",
+      "knowledge/a27d3054b15c/p0013-0018.md",
+      "knowledge/a27d3054b15c/p0019-0024.md",
+      "knowledge/a27d3054b15c/p0025-0030.md",
+      "knowledge/a27d3054b15c/p0031-0036.md",
+      "knowledge/a27d3054b15c/p0037-0042.md",
+      "knowledge/a27d3054b15c/p0043-0048.md"
+    ],
+    "pages": 48,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 48
+    }
+  },
+  {
+    "id": "a50f9614579a",
+    "path": "materials/英语一真题2002-2026/2023.pdf",
+    "title": "2023",
+    "bytes": 696431,
+    "sha256": "0b140886f70339bb5d4b4053460008729e1a401e11ea38f2b17509df3cba59f6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a50f9614579a/p0001-0006.md",
+      "knowledge/a50f9614579a/p0007-0012.md",
+      "knowledge/a50f9614579a/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "完型",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "Text1",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "Text2",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "Text3",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "Text4",
+        "pdf_page": 9
+      },
+      {
+        "level": 1,
+        "title": "新题型",
+        "pdf_page": 11
+      },
+      {
+        "level": 1,
+        "title": "翻译",
+        "pdf_page": 12
+      },
+      {
+        "level": 1,
+        "title": "作文",
+        "pdf_page": 14
+      }
+    ],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "0a8fd77693ff",
+    "path": "materials/英语一真题2002-2026/2024.pdf",
+    "title": "2024",
+    "bytes": 739153,
+    "sha256": "4a1f2ef37c2470c6719c84c23d334b7b3921b4ce565eade6805bcb457f3da092",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/0a8fd77693ff/p0001-0006.md",
+      "knowledge/0a8fd77693ff/p0007-0012.md",
+      "knowledge/0a8fd77693ff/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "完型",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "Text1",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "Text2",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "Text3",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "Text4",
+        "pdf_page": 9
+      },
+      {
+        "level": 1,
+        "title": "新题型",
+        "pdf_page": 11
+      },
+      {
+        "level": 1,
+        "title": "翻译",
+        "pdf_page": 12
+      },
+      {
+        "level": 1,
+        "title": "作文",
+        "pdf_page": 14
+      }
+    ],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "b41a1af9da4f",
+    "path": "materials/英语一真题2002-2026/2025.pdf",
+    "title": "2025",
+    "bytes": 530360,
+    "sha256": "019b369a53fff9b9a9917b6e5dce88f68e96eefed020eec05f15dbad64469c03",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b41a1af9da4f/p0001-0006.md",
+      "knowledge/b41a1af9da4f/p0007-0012.md",
+      "knowledge/b41a1af9da4f/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "完型",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "Text1",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "Text2",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "Text3",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "Text4",
+        "pdf_page": 9
+      },
+      {
+        "level": 1,
+        "title": "新题型",
+        "pdf_page": 11
+      },
+      {
+        "level": 1,
+        "title": "翻译",
+        "pdf_page": 13
+      },
+      {
+        "level": 1,
+        "title": "作文",
+        "pdf_page": 14
+      }
+    ],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "4be451cd5b9e",
+    "path": "materials/英语一真题2002-2026/2026.pdf",
+    "title": "2026",
+    "bytes": 481810,
+    "sha256": "df5647a6e9d6e11c1fc40867d647b56f0e35a5067c7ba2637997d99d72adac1a",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4be451cd5b9e/p0001-0006.md",
+      "knowledge/4be451cd5b9e/p0007-0012.md",
+      "knowledge/4be451cd5b9e/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "完型",
+        "pdf_page": 1
+      },
+      {
+        "level": 1,
+        "title": "Text1",
+        "pdf_page": 3
+      },
+      {
+        "level": 1,
+        "title": "Text2",
+        "pdf_page": 5
+      },
+      {
+        "level": 1,
+        "title": "Text3",
+        "pdf_page": 7
+      },
+      {
+        "level": 1,
+        "title": "Text4",
+        "pdf_page": 9
+      },
+      {
+        "level": 1,
+        "title": "新题型",
+        "pdf_page": 11
+      },
+      {
+        "level": 1,
+        "title": "翻译",
+        "pdf_page": 12
+      },
+      {
+        "level": 1,
+        "title": "作文",
+        "pdf_page": 14
+      }
+    ],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "3e3bcb58273c",
+    "path": "materials/英语一真题2002-2026/答案与解析/2002-答案及解析.pdf",
+    "title": "2002-答案及解析",
+    "bytes": 914800,
+    "sha256": "4c7e8c1afc8af903a71173864fddc6b13448732cd98f7ad303479b26a6764bf0",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/3e3bcb58273c/p0001-0006.md",
+      "knowledge/3e3bcb58273c/p0007-0012.md",
+      "knowledge/3e3bcb58273c/p0013-0018.md",
+      "knowledge/3e3bcb58273c/p0019-0024.md",
+      "knowledge/3e3bcb58273c/p0025-0025.md"
+    ],
+    "pages": 25,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 25
+    }
+  },
+  {
+    "id": "b92a9c56092c",
+    "path": "materials/英语一真题2002-2026/答案与解析/2003-答案及解析.pdf",
+    "title": "2003-答案及解析",
+    "bytes": 961808,
+    "sha256": "adc5e6e3fc175482fa0659f2ba74bc36d20e6d6abcf66b855e95a03b28db7aae",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b92a9c56092c/p0001-0006.md",
+      "knowledge/b92a9c56092c/p0007-0012.md",
+      "knowledge/b92a9c56092c/p0013-0018.md",
+      "knowledge/b92a9c56092c/p0019-0024.md",
+      "knowledge/b92a9c56092c/p0025-0026.md"
+    ],
+    "pages": 26,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 26
+    }
+  },
+  {
+    "id": "34594baf5b38",
+    "path": "materials/英语一真题2002-2026/答案与解析/2004-答案及解析.pdf",
+    "title": "2004-答案及解析",
+    "bytes": 908878,
+    "sha256": "0ef407757f0d37b041dcbbab789160ae04a7bdb3c57ea14bf66c7b74af9c7fb5",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/34594baf5b38/p0001-0006.md",
+      "knowledge/34594baf5b38/p0007-0012.md",
+      "knowledge/34594baf5b38/p0013-0018.md",
+      "knowledge/34594baf5b38/p0019-0024.md",
+      "knowledge/34594baf5b38/p0025-0025.md"
+    ],
+    "pages": 25,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 25
+    }
+  },
+  {
+    "id": "5c3a7ff17438",
+    "path": "materials/英语一真题2002-2026/答案与解析/2005-答案及解析.pdf",
+    "title": "2005-答案及解析",
+    "bytes": 713440,
+    "sha256": "bd534d302d84cc8597c9ca7d52ace1f6cab3050845b5e09487e79117b0e8a694",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/5c3a7ff17438/p0001-0006.md",
+      "knowledge/5c3a7ff17438/p0007-0012.md",
+      "knowledge/5c3a7ff17438/p0013-0018.md"
+    ],
+    "pages": 18,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 18
+    }
+  },
+  {
+    "id": "b27de43d459a",
+    "path": "materials/英语一真题2002-2026/答案与解析/2006-答案及解析.pdf",
+    "title": "2006-答案及解析",
+    "bytes": 690209,
+    "sha256": "071cfb2362b87edc7f1e0fe53a89abf73f172379632ecaed3bb247f124739b87",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b27de43d459a/p0001-0006.md",
+      "knowledge/b27de43d459a/p0007-0012.md",
+      "knowledge/b27de43d459a/p0013-0017.md"
+    ],
+    "pages": 17,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 17
+    }
+  },
+  {
+    "id": "a17b700c32d5",
+    "path": "materials/英语一真题2002-2026/答案与解析/2007-答案及解析.pdf",
+    "title": "2007-答案及解析",
+    "bytes": 695952,
+    "sha256": "8d6682d77d1dc52fc7d48a02d39adb1c547189417ed14fac7073504e0afbc0d0",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a17b700c32d5/p0001-0006.md",
+      "knowledge/a17b700c32d5/p0007-0012.md",
+      "knowledge/a17b700c32d5/p0013-0018.md"
+    ],
+    "pages": 18,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 18
+    }
+  },
+  {
+    "id": "7743018c97fa",
+    "path": "materials/英语一真题2002-2026/答案与解析/2008-答案及解析.pdf",
+    "title": "2008-答案及解析",
+    "bytes": 692862,
+    "sha256": "9fc814216bc554b85d1be9049454adabd18b9422b42a10a5887a3e1340148bd3",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/7743018c97fa/p0001-0006.md",
+      "knowledge/7743018c97fa/p0007-0012.md",
+      "knowledge/7743018c97fa/p0013-0017.md"
+    ],
+    "pages": 17,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 17
+    }
+  },
+  {
+    "id": "422b52b3905a",
+    "path": "materials/英语一真题2002-2026/答案与解析/2009-答案及解析.pdf",
+    "title": "2009-答案及解析",
+    "bytes": 602143,
+    "sha256": "b854168d00992898aba0164ed29ab8b3c528ae6e55321a1dacb88f247cc89009",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/422b52b3905a/p0001-0006.md",
+      "knowledge/422b52b3905a/p0007-0012.md",
+      "knowledge/422b52b3905a/p0013-0014.md"
+    ],
+    "pages": 14,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 14
+    }
+  },
+  {
+    "id": "a509f8d60ef0",
+    "path": "materials/英语一真题2002-2026/答案与解析/2010-答案及解析.pdf",
+    "title": "2010-答案及解析",
+    "bytes": 764941,
+    "sha256": "32df10d7f618cac2178f9dd3bd2de0cf4a0a226655559b391930c27ea8f85cc7",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a509f8d60ef0/p0001-0006.md",
+      "knowledge/a509f8d60ef0/p0007-0012.md",
+      "knowledge/a509f8d60ef0/p0013-0018.md",
+      "knowledge/a509f8d60ef0/p0019-0020.md"
+    ],
+    "pages": 20,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "2010年全国硕士研究生招生考试英语（一）答案详解",
+        "pdf_page": 1
+      },
+      {
+        "level": 2,
+        "title": "Section I Use of English",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "一、文章题材结构分析",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "二、试题解析",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "三、全文翻译",
+        "pdf_page": 5
+      },
+      {
+        "level": 2,
+        "title": "Section II Reading Comprehension",
+        "pdf_page": 5
+      },
+      {
+        "level": 3,
+        "title": "Text 1",
+        "pdf_page": 5
+      },
+      {
+        "level": 3,
+        "title": "三、长难句分析",
+        "pdf_page": 7
+      },
+      {
+        "level": 3,
+        "title": "四、核心词与超纲词",
+        "pdf_page": 7
+      },
+      {
+        "level": 3,
+        "title": "Text 2",
+        "pdf_page": 8
+      },
+      {
+        "level": 3,
+        "title": "一、文章题材结构分析",
+        "pdf_page": 8
+      },
+      {
+        "level": 3,
+        "title": "二、试题解析",
+        "pdf_page": 8
+      },
+      {
+        "level": 3,
+        "title": "三、核心词与超纲词",
+        "pdf_page": 10
+      },
+      {
+        "level": 3,
+        "title": "Text 3",
+        "pdf_page": 11
+      },
+      {
+        "level": 3,
+        "title": "Text 4",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "一、文章题材结构分析",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "二、试题解析",
+        "pdf_page": 14
+      },
+      {
+        "level": 3,
+        "title": "三、长难句分析",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "四、核心词与超纲词",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "五、全文翻译",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "一、试题解析",
+        "pdf_page": 17
+      },
+      {
+        "level": 3,
+        "title": "二、全文翻译",
+        "pdf_page": 19
+      },
+      {
+        "level": 2,
+        "title": "Section III Writing",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "一、审题谋篇",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "一、审题谋篇",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "二、参考范文",
+        "pdf_page": 20
+      },
+      {
+        "level": 3,
+        "title": "三、万能句型",
+        "pdf_page": 20
+      }
+    ],
+    "extraction": {
+      "text-layer": 20
+    }
+  },
+  {
+    "id": "c7c9405ee964",
+    "path": "materials/英语一真题2002-2026/答案与解析/2011-答案及解析.pdf",
+    "title": "2011-答案及解析",
+    "bytes": 774187,
+    "sha256": "f02457a89537c44fcd5de82b9f5f456a403525192ee154934bf060934c8f7e59",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/c7c9405ee964/p0001-0006.md",
+      "knowledge/c7c9405ee964/p0007-0012.md",
+      "knowledge/c7c9405ee964/p0013-0017.md"
+    ],
+    "pages": 17,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 17
+    }
+  },
+  {
+    "id": "356ff4a88c7a",
+    "path": "materials/英语一真题2002-2026/答案与解析/2012-答案及解析.pdf",
+    "title": "2012-答案及解析",
+    "bytes": 784986,
+    "sha256": "ab3d9c389b8a97b159b039fd2907be04258f5734477751137f52d4f2e90fa215",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/356ff4a88c7a/p0001-0006.md",
+      "knowledge/356ff4a88c7a/p0007-0012.md",
+      "knowledge/356ff4a88c7a/p0013-0018.md",
+      "knowledge/356ff4a88c7a/p0019-0020.md"
+    ],
+    "pages": 20,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "2012年全国硕士研究生招生考试英语（一）答案详解",
+        "pdf_page": 1
+      }
+    ],
+    "extraction": {
+      "text-layer": 20
+    }
+  },
+  {
+    "id": "5199b61e2622",
+    "path": "materials/英语一真题2002-2026/答案与解析/2013-答案及解析.pdf",
+    "title": "2013-答案及解析",
+    "bytes": 833068,
+    "sha256": "d95b26727a685fdbd116e0d8e0e9c38889841828a7b7397b99d6e514fb223cbd",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/5199b61e2622/p0001-0006.md",
+      "knowledge/5199b61e2622/p0007-0012.md",
+      "knowledge/5199b61e2622/p0013-0018.md",
+      "knowledge/5199b61e2622/p0019-0020.md"
+    ],
+    "pages": 20,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "2013年全国硕士研究生招生考试英语（一）答案详解",
+        "pdf_page": 1
+      },
+      {
+        "level": 2,
+        "title": "Section I Use of English",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "一、文章题材结构分析",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "二、试题解析",
+        "pdf_page": 1
+      },
+      {
+        "level": 3,
+        "title": "三、全文翻译",
+        "pdf_page": 4
+      },
+      {
+        "level": 2,
+        "title": "Section II Reading Comprehension",
+        "pdf_page": 4
+      },
+      {
+        "level": 3,
+        "title": "Text 1",
+        "pdf_page": 4
+      },
+      {
+        "level": 3,
+        "title": "四、核心词与超纲词",
+        "pdf_page": 6
+      },
+      {
+        "level": 3,
+        "title": "Text 3",
+        "pdf_page": 10
+      },
+      {
+        "level": 3,
+        "title": "Text 4",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "一、文章题材结构分析",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "二、试题解析",
+        "pdf_page": 13
+      },
+      {
+        "level": 3,
+        "title": "五、全文翻译",
+        "pdf_page": 15
+      },
+      {
+        "level": 3,
+        "title": "一、试题解析",
+        "pdf_page": 17
+      },
+      {
+        "level": 3,
+        "title": "二、全文翻译",
+        "pdf_page": 18
+      },
+      {
+        "level": 2,
+        "title": "Section III Writing",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "一、审题谋篇",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "二、参考范文",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "一、审题谋篇",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "二、参考范文",
+        "pdf_page": 19
+      },
+      {
+        "level": 3,
+        "title": "三、万能句型",
+        "pdf_page": 20
+      }
+    ],
+    "extraction": {
+      "text-layer": 20
+    }
+  },
+  {
+    "id": "f0c04669c048",
+    "path": "materials/英语一真题2002-2026/答案与解析/2014-答案及解析.pdf",
+    "title": "2014-答案及解析",
+    "bytes": 786994,
+    "sha256": "8f08125266d0f033886a62ea3d6df280d8308f80034d8a9bc5938cf2d794faec",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/f0c04669c048/p0001-0006.md",
+      "knowledge/f0c04669c048/p0007-0012.md",
+      "knowledge/f0c04669c048/p0013-0018.md",
+      "knowledge/f0c04669c048/p0019-0022.md"
+    ],
+    "pages": 22,
+    "bookmarks": [
+      {
+        "level": 1,
+        "title": "2014年全国硕士研究生招生考试英语（一）答案详解",
+        "pdf_page": 1
+      },
+      {
+        "level": 2,
+        "title": "Section I Use of English",
+        "pdf_page": 1
+      }
+    ],
+    "extraction": {
+      "text-layer": 22
+    }
+  },
+  {
+    "id": "4bacffac76d0",
+    "path": "materials/英语一真题2002-2026/答案与解析/2015-答案及解析.pdf",
+    "title": "2015-答案及解析",
+    "bytes": 776419,
+    "sha256": "c1f085e52456601014bd5c7e988506d98c5ce5ed6e6f175ed3f3d0b4b1428c74",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/4bacffac76d0/p0001-0006.md",
+      "knowledge/4bacffac76d0/p0007-0012.md",
+      "knowledge/4bacffac76d0/p0013-0017.md"
+    ],
+    "pages": 17,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 17
+    }
+  },
+  {
+    "id": "a3cfa1bc55ff",
+    "path": "materials/英语一真题2002-2026/答案与解析/2016-答案及解析.pdf",
+    "title": "2016-答案及解析",
+    "bytes": 991403,
+    "sha256": "fc847da8eda1ef06c44d88412583312f598e472dca56393f1cfc4ef9951912ea",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/a3cfa1bc55ff/p0001-0006.md",
+      "knowledge/a3cfa1bc55ff/p0007-0012.md",
+      "knowledge/a3cfa1bc55ff/p0013-0018.md",
+      "knowledge/a3cfa1bc55ff/p0019-0024.md",
+      "knowledge/a3cfa1bc55ff/p0025-0028.md"
+    ],
+    "pages": 28,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 28
+    }
+  },
+  {
+    "id": "3098ff1fc0d5",
+    "path": "materials/英语一真题2002-2026/答案与解析/2017-答案及解析.pdf",
+    "title": "2017-答案及解析",
+    "bytes": 1263615,
+    "sha256": "3d823cf23dabb9b8ead8029b22059b2cee5db9a3be55a067d326a552d10aa2d6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/3098ff1fc0d5/p0001-0006.md",
+      "knowledge/3098ff1fc0d5/p0007-0012.md",
+      "knowledge/3098ff1fc0d5/p0013-0018.md",
+      "knowledge/3098ff1fc0d5/p0019-0024.md",
+      "knowledge/3098ff1fc0d5/p0025-0028.md"
+    ],
+    "pages": 28,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 28
+    }
+  },
+  {
+    "id": "28ffa2195530",
+    "path": "materials/英语一真题2002-2026/答案与解析/2018-答案及解析.pdf",
+    "title": "2018-答案及解析",
+    "bytes": 698997,
+    "sha256": "b1d359dab24410a99bf2651712f613fd68a7ed075dc7dc7e9c6cd0c79c2febd6",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/28ffa2195530/p0001-0006.md",
+      "knowledge/28ffa2195530/p0007-0012.md",
+      "knowledge/28ffa2195530/p0013-0013.md"
+    ],
+    "pages": 13,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 13
+    }
+  },
+  {
+    "id": "b28bc4510f79",
+    "path": "materials/英语一真题2002-2026/答案与解析/2019-答案及解析.pdf",
+    "title": "2019-答案及解析",
+    "bytes": 459692,
+    "sha256": "5e1f2bbed29250b6107965570622b794f6e4c24b2fb9922729d2f2e0992166bd",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/b28bc4510f79/p0001-0006.md",
+      "knowledge/b28bc4510f79/p0007-0012.md",
+      "knowledge/b28bc4510f79/p0013-0018.md",
+      "knowledge/b28bc4510f79/p0019-0020.md"
+    ],
+    "pages": 20,
+    "bookmarks": [],
+    "extraction": {
+      "text-layer": 20
+    }
+  },
+  {
+    "id": "e176e1887a3a",
+    "path": "materials/英语一真题2002-2026/答案与解析/2020-答案及解析.pdf",
+    "title": "2020-答案及解析",
+    "bytes": 3592318,
+    "sha256": "7e4e4129c74451f40ba13815cd60fceb86ae4b5781688cc523ae6cd82a606c1b",
+    "provenance": "user-provided; not authenticated as official",
+    "human_verified": false,
+    "chunks": [
+      "knowledge/e176e1887a3a/p0001-0006.md",
+      "knowledge/e176e1887a3a/p0007-0007.md"
+    ],
+    "pages": 7,
+    "bookmarks": [],
+    "extraction": {
+      "needs-visual-check": 7
+    }
+  }
+]

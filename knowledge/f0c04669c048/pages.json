@@ -1,0 +1,134 @@
+[
+  {
+    "pdf_page": 1,
+    "method": "text-layer",
+    "chars": 1754,
+    "confidence": null
+  },
+  {
+    "pdf_page": 2,
+    "method": "text-layer",
+    "chars": 1998,
+    "confidence": null
+  },
+  {
+    "pdf_page": 3,
+    "method": "text-layer",
+    "chars": 1909,
+    "confidence": null
+  },
+  {
+    "pdf_page": 4,
+    "method": "text-layer",
+    "chars": 1806,
+    "confidence": null
+  },
+  {
+    "pdf_page": 5,
+    "method": "text-layer",
+    "chars": 1857,
+    "confidence": null
+  },
+  {
+    "pdf_page": 6,
+    "method": "text-layer",
+    "chars": 2511,
+    "confidence": null
+  },
+  {
+    "pdf_page": 7,
+    "method": "text-layer",
+    "chars": 2073,
+    "confidence": null
+  },
+  {
+    "pdf_page": 8,
+    "method": "text-layer",
+    "chars": 2090,
+    "confidence": null
+  },
+  {
+    "pdf_page": 9,
+    "method": "text-layer",
+    "chars": 2194,
+    "confidence": null
+  },
+  {
+    "pdf_page": 10,
+    "method": "text-layer",
+    "chars": 1921,
+    "confidence": null
+  },
+  {
+    "pdf_page": 11,
+    "method": "text-layer",
+    "chars": 1991,
+    "confidence": null
+  },
+  {
+    "pdf_page": 12,
+    "method": "text-layer",
+    "chars": 2142,
+    "confidence": null
+  },
+  {
+    "pdf_page": 13,
+    "method": "text-layer",
+    "chars": 1797,
+    "confidence": null
+  },
+  {
+    "pdf_page": 14,
+    "method": "text-layer",
+    "chars": 1751,
+    "confidence": null
+  },
+  {
+    "pdf_page": 15,
+    "method": "text-layer",
+    "chars": 2006,
+    "confidence": null
+  },
+  {
+    "pdf_page": 16,
+    "method": "text-layer",
+    "chars": 2845,
+    "confidence": null
+  },
+  {
+    "pdf_page": 17,
+    "method": "text-layer",
+    "chars": 1666,
+    "confidence": null
+  },
+  {
+    "pdf_page": 18,
+    "method": "text-layer",
+    "chars": 1731,
+    "confidence": null
+  },
+  {
+    "pdf_page": 19,
+    "method": "text-layer",
+    "chars": 2208,
+    "confidence": null
+  },
+  {
+    "pdf_page": 20,
+    "method": "text-layer",
+    "chars": 2158,
+    "confidence": null
+  },
+  {
+    "pdf_page": 21,
+    "method": "text-layer",
+    "chars": 2107,
+    "confidence": null
+  },
+  {
+    "pdf_page": 22,
+    "method": "text-layer",
+    "chars": 2006,
+    "confidence": null
+  }
+]
